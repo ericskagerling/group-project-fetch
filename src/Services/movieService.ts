@@ -1,4 +1,4 @@
-import type { Movie } from "../models/Movie";
+import type { Movie } from "../models/Movies";
 import type { OmdbResponse } from "../models/OmdbResponse";
 import { get } from "./serviceBase";
 
