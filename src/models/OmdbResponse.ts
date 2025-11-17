@@ -1,5 +1,5 @@
-import type { Movie } from "./Movies";
+import type { Movie } from "./Movie";
+
 export type OmdbResponse = {
     Search: Movie[];
-
 };
